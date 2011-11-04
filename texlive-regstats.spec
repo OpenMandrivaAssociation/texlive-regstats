@@ -55,6 +55,7 @@ maximum available number of such registers.
 %doc %{_texmfdistdir}/source/latex/regstats/regstats.drv
 %doc %{_texmfdistdir}/source/latex/regstats/regstats.dtx
 %doc %{_texmfdistdir}/source/latex/regstats/regstats.ins
+%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -65,3 +66,5 @@ maximum available number of such registers.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+mkdir -p %{buildroot}%{_tlpkgobjdir}
+cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}
