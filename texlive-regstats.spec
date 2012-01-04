@@ -6,7 +6,7 @@
 # catalog-version 1.0f
 Name:		texlive-regstats
 Version:	1.0f
-Release:	1
+Release:	2
 Summary:	Information about register use
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/regstats
