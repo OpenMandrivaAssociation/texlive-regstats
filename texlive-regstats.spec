@@ -1,4 +1,4 @@
-# revision 25002
+# revision 25050
 # category Package
 # catalog-ctan /macros/latex/contrib/regstats
 # catalog-date 2012-01-02 14:24:13 +0100
@@ -6,7 +6,7 @@
 # catalog-version 1.0g
 Name:		texlive-regstats
 Version:	1.0g
-Release:	1
+Release:	2
 Summary:	Information about register use
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/regstats
