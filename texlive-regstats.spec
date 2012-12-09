@@ -55,3 +55,25 @@ maximum available number of such registers.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Thu Jan 19 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.0g-2
++ Revision: 762706
+- Update to latest upstream package
+
+* Mon Jan 09 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.0g-1
++ Revision: 759033
+- Update to latest upstream release
+
+* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.0f-2
++ Revision: 755657
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 1.0f-1
++ Revision: 719447
+- texlive-regstats
+- texlive-regstats
+- texlive-regstats
+- texlive-regstats
+
