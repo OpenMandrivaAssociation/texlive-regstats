@@ -1,6 +1,6 @@
 Name:		texlive-regstats
 Version:	25050
-Release:	1
+Release:	2
 Summary:	Information about register use
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/regstats
