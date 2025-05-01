@@ -1,5 +1,5 @@
 Name:		texlive-regstats
-Version:	66795
+Version:	73635
 Release:	1
 Summary:	Information about register use
 Group:		Publishing
